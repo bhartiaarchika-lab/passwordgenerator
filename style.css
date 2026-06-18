@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+    background-color: lightgray;
+}
+.container{
+    width:300px;
+    margin:auto;
+    margin-top:100px;
+    background:white;
+    padding:20px;
+    text-align:center;
+    border:1px solid black;
+}
+input[type=text]{
+    width:90%;
+    padding:5px;
+}
+button{
+    padding:8px;
+    background:blue;
+    color:white;
+    border:none;
+}
